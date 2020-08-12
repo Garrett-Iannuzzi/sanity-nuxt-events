@@ -38,7 +38,7 @@
 
 // ^^^^^^^^^^^^^^^^^^this would be the long way, you could do it a different way below 
 
-const services = ['twitter', 'instagram', 'github', 'website']
+const services = ['twitter', 'instagram', 'github', 'linkedIn']
 
 export default {
   name: 'social',
